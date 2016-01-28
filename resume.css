@@ -10,13 +10,13 @@ body
 
 a:link, a:visited
 {
-	color:#426A55;
+	color:#990000;
 	text-decoration:none;
 }
 
 a:hover , .current
 {
-	color:#990000 !important;
+	color:#FF8C00 !important;
 }
 
 a:active  
