@@ -12,7 +12,7 @@ To set up a GitHub pages follow these directions:
 6. Wait for changes to propogate.
 
 ## Usage
-Feel free to use any of my stuff. Just don't use it for evil and give credit when credit is due.
+Feel free to use any of my stuff. Just don't use it for evil and please give credit when credit is due.
 
 ## Contributing
 1. Fork it!
@@ -26,4 +26,5 @@ A long time ago I started building this webpage because I was bored and wanted m
 
 ## Credits
 Andrew Sturges for a github pages and go daddy tutorial.
+
 (http://andrewsturges.com/blog/jekyll/tutorial/2014/11/06/github-and-godaddy.html)
