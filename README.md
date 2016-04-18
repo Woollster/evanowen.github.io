@@ -22,7 +22,7 @@ Feel free to use any of my stuff. Just don't use it for evil and please give cre
 5. Submit a pull request :D
 
 ## History
-A long time ago I started building this webpage because I was bored and wanted my resume and stuff employers may want to see in one place.
+I designed, created, and hosting this webpage myself. I wanted my website to be a place where people could go to see my github account, linkedin, and any other contact infomation in a concise, familiar, and easy to read format.
 
 ## Credits
 Andrew Sturges for a github pages and go daddy tutorial.
