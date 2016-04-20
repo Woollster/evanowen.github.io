@@ -104,6 +104,7 @@ section
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Julius Sans One', sans-serif;
 	line-height:normal;
+	font-weight: bolder;
 }
 
 h1
@@ -113,12 +114,12 @@ h1
 	margin-top: 0px;
 	margin-bottom: 20px;
 	font-size: 48px;
-	font-weight: bolder;
 }
 
 h2
 {
 	font-size:16pt;
+	
 }
 .clear
 {
