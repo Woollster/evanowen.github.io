@@ -101,10 +101,14 @@ section
 	border: 0px solid red;
 }
 
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Julius Sans One', sans-serif;
+	line-height:normal;
+}
+
 h1
 {
 	text-align: center;
-	font-family: 'Julius Sans One', sans-serif;
 	letter-spacing: 4px;
 	margin-top: 0px;
 	margin-bottom: 20px;
