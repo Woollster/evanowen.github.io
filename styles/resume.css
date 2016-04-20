@@ -101,7 +101,8 @@ section
 	border: 0px solid red;
 }
 
-h3{
+h1,h3
+{
 	font-family: 'Julius Sans One', sans-serif;
 	line-height:normal;
 	font-weight: bolder;
